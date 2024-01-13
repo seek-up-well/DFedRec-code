@@ -1,2 +1,2 @@
 # DFedRec-code
-The code of DFedRec.
+The code will be released soon.
